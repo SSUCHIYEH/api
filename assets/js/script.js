@@ -10,7 +10,7 @@ const sportNewsURL =
   "https://newsapi.org/v2/everything?q=sport&pageSize=6&apiKey=";
 const taiwanNewsURL =
   "https://newsapi.org/v2/everything?q=taiwan&pageSize=6";
-const apiKey = "a490ea4d42a542f08ed0e12df752bba4";
+const apiKey = "56c2f34177e4495e92432ab0d3ddb306";
 
 
 let newsTemplate = news =>`
